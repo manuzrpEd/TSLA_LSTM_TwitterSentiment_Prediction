@@ -1,6 +1,6 @@
 # TSLA_LSTM_TwitterSentiment_Prediction
 
-This project predicts TSLA stock prices with and without Twitter Sentiment.
+This project predicts TSLA stock prices with and without Twitter Sentiment, inspired from [https://github.com/georgemuriithi/tesla-stock-price-pred/tree/main](https://github.com/georgemuriithi/tesla-stock-price-pred/tree/main).
 
 This repository demonstrates a fine-tuning process for an LSTM (Long Short-Term Memory) neural network using the Ray API. LSTM networks are powerful models for sequential data, and fine-tuning allows us to adapt pre-trained models to specific tasks or datasets.
 
