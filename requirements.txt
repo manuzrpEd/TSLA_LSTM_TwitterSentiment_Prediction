@@ -1,0 +1,8 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+ray[tune]
+scikit-learn
+torch
+yfinance 
