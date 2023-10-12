@@ -6,6 +6,7 @@ pandas
 ray[tune]
 seaborn
 scikit-learn
+textblob
 torch
 wordcloud
 yfinance 
