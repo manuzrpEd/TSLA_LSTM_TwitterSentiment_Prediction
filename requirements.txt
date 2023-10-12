@@ -1,8 +1,11 @@
 ipywidgets
 matplotlib
+nltk
 numpy
 pandas
 ray[tune]
+seaborn
 scikit-learn
 torch
+wordcloud
 yfinance 
