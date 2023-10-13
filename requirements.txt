@@ -3,6 +3,7 @@ matplotlib
 nltk
 numpy
 pandas
+pandas_ta
 ray[tune]
 seaborn
 scikit-learn
